@@ -1,0 +1,35 @@
+.App {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #f0f0f0;
+}
+
+.snake-head {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: green;
+    border-radius: 50%;
+    transition: transform 0.1s;
+}
+
+.snake-body {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: #3c763d;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    transition: transform 0.1s;
+}
+
+.snake-tail {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: brown;
+    border-radius: 50%;
+}
+
