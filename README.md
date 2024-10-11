@@ -42,7 +42,7 @@ To get started with the project, follow these steps:
    npm run dev
    ```
 
-5. **Open your browser** and go to `http://localhost:3000` to see the magic happen! ✨
+5. **Open your browser** and go to `http://localhost:5173` to see the magic happen! ✨
 
 ## Usage 🖱️
 
